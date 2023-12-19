@@ -56,3 +56,9 @@ Run the application.
 
 Contributing
 Contributions are welcome! Fork the repository and submit a pull request for new features or bug fixes.
+
+
+
+
+Database Diagram(ERD)
+![ERDiagram](https://github.com/remy000/DukundaneRemy_24459_web_backend/assets/106330747/bb7519e7-748c-4763-8c7c-6d78e659e68c)
