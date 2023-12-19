@@ -46,6 +46,9 @@ GET /booking/allBooking: Retrieve All Houses.
 GET /booking/getOneBook/{id}: Retrieve details of a specific property.
 DELETE /booking/deleteBooking/{id}: Delete or cancel booking.
 
+about image handling and uploading when admin upload a new house he uploads it's picture also so whenan image is uploaded the system keeeps it in a directory called images 
+and it's path is the one stored in database so when displaying them om userInterface the system picks that image from a directory and create a path fot a user to access that image
+
 Setup Instructions
 
 Clone the repository
